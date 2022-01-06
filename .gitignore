@@ -6,6 +6,9 @@ __pycache__
 db.sqlite3
 media
 
+#templates and images
+ytubers-template_lyst4270/
+Img/
 # Backup files # 
 *.bak 
 
